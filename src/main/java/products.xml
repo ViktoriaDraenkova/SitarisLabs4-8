@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Products>
+    <Product id="1">
+        <name>Apple</name>
+        <category>Fruits</category>
+        <ageConstraint>0+</ageConstraint>
+        <customer>Polessie</customer>
+        <price>10.0</price>
+    </Product>
+    <Product id="2">
+        <name>Pineapple</name>
+        <category>Fruits</category>
+        <ageConstraint>3+</ageConstraint>
+        <customer>AfricanExport inc.</customer>
+        <price>8.0</price>
+    </Product>
+    <Product id="3">
+        <name>Banana</name>
+        <category>Fruits</category>
+        <ageConstraint>1+</ageConstraint>
+        <customer>BelExotics</customer>
+        <price>7.0</price>
+    </Product>
+    <Product id="4">
+        <name>Tomato</name>
+        <category>Vegetables</category>
+        <ageConstraint>2+</ageConstraint>
+        <customer>OAO Senior-Pomidor</customer>
+        <price>12.0</price>
+    </Product>
+</Products>
